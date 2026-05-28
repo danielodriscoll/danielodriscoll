@@ -10,8 +10,11 @@ Currently at **Deloitte**, previously at **Dell Technologies** and **Vodafone**.
 
 ### Tech I use
 **Languages:** Python, Java (Spring Boot), SQL, Bash
+
 **Cloud:** AWS (Bedrock, Kendra, S3, IAM), Azure
+
 **DevOps:** GitHub-Actions, Docker, Git, Linux, Terraform, Ansible, Kubernetes, FastAPI, 
+
 **AI/ML:** Retrieval-Augmented Generation, LLM orchestration, scikit-learn
 
 ### Featured work
