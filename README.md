@@ -5,7 +5,7 @@ Software engineer based in Dublin, Ireland. I build backend systems, automation 
 Currently at **Deloitte**, previously at **Dell Technologies** and **Vodafone**. First Class Honours BSc graduate from Munster Technological University, with peer-reviewed research published by Springer Nature on algorithmic matching under varying constraints.
 
 ### What I'm working on
-- Building production-style portfolio projects in Terraform, Docker, and AWS to deepen my DevOps practice
+- Building production-style portfolio project in Kubernetes, Terraform, Docker, AWS, Ansible, Prometheus, FastAPI, Github Actions to deepen my software engineering & DevOps practice
 - AWS Cloud Practitioner certification (exam booked)
 
 ### Tech I use
@@ -18,9 +18,9 @@ Currently at **Deloitte**, previously at **Dell Technologies** and **Vodafone**.
 **AI/ML:** Retrieval-Augmented Generation, LLM orchestration, scikit-learn
 
 ### Featured work
+- ☁️ **[DevOps-Portfolio](https://github.com/danielodriscoll/devops-portfolio.git)** — fastAPI app deployed on Kubernetes.
 - 📄 **[Mentor-Mentee Matching Algorithms](https://github.com/danielodriscoll/mentor-mentee-matching-algorithms.git)** — Published research (Springer Nature). Comparative study of Euclidean, k-clustering, genetic, and deferred-acceptance algorithms over an 8,000-record dataset.
 - 🏥 **[HealthAI](https://github.com/danielodriscoll/healthai-app.git)** — Full-stack patient–doctor platform with LLM assistant and a scikit-learn heart-disease risk model.
-- ☁️ **[DevOps-Portfolio](https://github.com/danielodriscoll/devops-portfolio.git)** — Terraform-provisioned AWS app with GitHub Actions pipeline.
 
 ### Get in touch
 📧 daniel.m.odriscoll@gmail.com
