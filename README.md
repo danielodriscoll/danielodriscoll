@@ -15,9 +15,13 @@ by Springer Nature on algorithmic matching under varying constraints.
 
 ### Tech I use
 **Languages:** Python, Java (Spring Boot), SQL, Bash
+
 **Backend:** FastAPI, REST APIs, gRPC, microservices
+
 **Cloud:** AWS (Bedrock, Kendra, S3, IAM), Azure
+
 **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, Ansible, Linux, Git
+
 **AI/ML:** Retrieval-Augmented Generation, LLM orchestration, scikit-learn
 
 ### Featured work
