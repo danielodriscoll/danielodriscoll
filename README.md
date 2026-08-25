@@ -8,10 +8,7 @@ Honours BSc from Munster Technological University, with peer-reviewed research p
 by Springer Nature on algorithmic matching under varying constraints.
 
 ### What I'm working on
-- A production-style DevOps portfolio: Docker, GitHub Actions CI/CD with image scanning,
-  and Kubernetes, built from an empty repo with each design decision documented.
-  Terraform, Ansible and a Prometheus/Grafana/Loki stack are the next phases.
-- AWS Cloud Practitioner certification (exam booked)
+A production-style DevOps portfolio, built from an empty repo with every decision documented: a containerised FastAPI app with a security-scanned CI/CD pipeline (Docker, GitHub Actions, Trivy), deployed to Kubernetes via a Helm chart behind the Gateway API with CPU-based autoscaling, and AWS infrastructure provisioned with Terraform using a bootstrapped remote-state backend and least-privilege IAM. Moving on to Ansible for host configuration, then an observability stack (Prometheus/Grafana/Loki).
 
 ### Tech I use
 **Languages:** Python, Java (Spring Boot), SQL, Bash
@@ -27,10 +24,7 @@ by Springer Nature on algorithmic matching under varying constraints.
 ### Featured work
 
 ☁️ **[DevOps Portfolio](https://github.com/danielodriscoll/DevOps-Portfolio)**
-A FastAPI service taken through a full delivery toolchain: multi-stage Docker build,
-GitHub Actions running lint, tests and Trivy image scanning before publishing to GHCR,
-deployed to Kubernetes as a multi-replica service behind the Gateway API. Decisions and
-lessons documented per phase.
+A FastAPI service taken through a full delivery toolchain: multi-stage Docker build; GitHub Actions running lint, tests and a Trivy scan before publishing to GHCR; deployed to Kubernetes via a Helm chart behind the Gateway API with autoscaling, validated in CI with kubeconform; AWS infrastructure provisioned with Terraform (isolated encrypted remote state, least-privilege IAM). Ansible and observability next. Decisions and trade-offs documented per phase.
 
 📄 **[Mentor-Mentee Matching Algorithms](https://github.com/danielodriscoll/mentor-mentee-matching-algorithms)**
 Published research (Springer Nature): comparative study of Euclidean, k-means, genetic and
