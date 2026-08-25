@@ -36,15 +36,17 @@ lessons documented per phase.
 Published research (Springer Nature): comparative study of Euclidean, k-means, genetic and
 deferred-acceptance algorithms over an 8,000-record dataset, with runtimes optimised
 through multithreading and batch processing.
-[Read the paper →](https://link.springer.com/chapter/10.1007/978-3-032-07938-1_16)
+[Read Paper 1](https://link.springer.com/chapter/10.1007/978-3-032-07938-1_16)
+[Read Paper 2](https://link.springer.com/chapter/10.1007/978-3-032-28263-7_1)
 
 🍽️ **[Restaurant Microservices](https://github.com/danielodriscoll/Microservices_Restaurant_Delivery)**
 Food-ordering backend built as four independent Python services communicating over gRPC,
 behind a FastAPI gateway. Docker Compose locally, Kubernetes manifests for a cluster.
 
 🏥 **[HealthAI](https://github.com/danielodriscoll/healthai-app)**
-Full-stack patient-doctor platform with an LLM assistant and a scikit-learn heart-disease
-risk model, deployed on Firebase with real-time sync.
+A health-focused Android application developed as a group project. HealthAI combines machine learning disease prediction models with an AI-powered chatbot to help users better understand their health.
+
+Android app (Java) integrating Firebase, OpenAI GPT-3, OAuth, and a custom Python/Flask ML API deployed on Render and Heroku.
 
 ### Get in touch
 📧 daniel.m.odriscoll@gmail.com
